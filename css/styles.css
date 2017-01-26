@@ -46,3 +46,10 @@ a{
 .panel-success>.panel-heading {
   color: black;
 }
+
+.thumbnail {
+  width: 100px;
+  float: left;
+  margin-right: 1em;
+  align: left;
+}
